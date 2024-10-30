@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer className="w-full  py-4  bg-blue-gray-100">
       <div className=" w-full customWidth rounded p-6 mx-auto flex flex-row flex-wrap items-center justify-center  bg-white text-center md:justify-between">
-        <Typography href="/home">
+        <Typography href="#">
           <a className="animate-text bg-gradient-to-r from-[#050C9C] via-[#3572EF] to-[#050C9C] bg-clip-text text-transparent  font-black">
             Rayan Bd
           </a>
